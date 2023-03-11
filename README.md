@@ -15,7 +15,7 @@ Web приложение для учета расходов.
 
 ## Стек
 
-JavaScript, ReactJS, HTML5, SASS, CSS3, flex, адаптивная верстка.
+JavaScript, ReactJS, HTML5, SASS, CSS3, flex.
 
 ## Инструкция по развертыванию
 
